@@ -1,0 +1,22 @@
+{
+  "name": "eslint-config-laden",
+  "version": "1.0.0",
+  "description": "",
+  "main": ".eslintrc.js",
+  "scripts": {},
+  "author": "",
+  "license": "ISC",
+  "peerDependencies": {
+    "eslint": ">= 4",
+    "prettier-eslint": ">= 8"
+  },
+  "devDependencies": {
+    "eslint": "^4.16.0",
+    "prettier-eslint": "^8.8.1"
+  },
+  "dependencies": {
+    "babel-eslint": "^8.2.1",
+    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-plugin-import": "^2.8.0"
+  }
+}
