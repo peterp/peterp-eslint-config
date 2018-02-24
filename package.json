@@ -1,6 +1,6 @@
 {
   "name": "@laden/eslint-config",
-  "version": "1.0.2",
+  "version": "1.1.1",
   "description": "Laden's Shareable ESLint Config",
   "main": ".eslintrc.js",
   "scripts": {},
