@@ -1,12 +1,14 @@
 {
   "name": "@laden/eslint-config",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "description": "Laden's Shareable ESLint Config",
   "main": ".eslintrc.js",
   "scripts": {},
   "author": "Peter Pistorius <peter.pistorius@gmail.com>",
   "license": "ISC",
-  "files": [".eslintrc.js"],
+  "files": [
+    ".eslintrc.js"
+  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/peterp/laden-eslint-config/"
