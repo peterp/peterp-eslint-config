@@ -1,7 +1,7 @@
 {
-  "name": "@laden/eslint-config",
-  "version": "1.1.1",
-  "description": "Laden's Shareable ESLint Config",
+  "name": "@peterp/eslint-config",
+  "version": "2.0.0",
+  "description": "Peter Pistorius' Shareable ESLint Config",
   "main": ".eslintrc.js",
   "scripts": {},
   "author": "Peter Pistorius <peter.pistorius@gmail.com>",
@@ -9,7 +9,7 @@
   "files": [".eslintrc.js"],
   "repository": {
     "type": "git",
-    "url": "https://github.com/peterp/laden-eslint-config/"
+    "url": "https://github.com/peterp/peterp-eslint-config/"
   },
   "peerDependencies": {
     "eslint": ">= 4",
