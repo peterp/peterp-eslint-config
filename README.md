@@ -1,4 +1,4 @@
-# Laden's Shareable ESLint Config
+# Peter's Shareable ESLint Config
 
 ## Installation
 
